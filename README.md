@@ -1,5 +1,4 @@
- Hi there, I am Selman. I am a freshman in computer science department of Bilkent University.
- I'm currently learning algorithms and programming.
+ Hi there, I am Selman. I am a junior in computer science department of Bilkent University.
 
 <!--
 **SelmanSahin04/SelmanSahin04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
